@@ -15,7 +15,11 @@ Essas regras simples criam padrões complexos e interessantes ao longo das gera�
 
 ## Como Jogar
 
-1. Clique no botão "Iniciar jogo" e veja a magia acontecer por si só.
+1. Acesse o site: https://conway-game-of-life-raphael.netlify.app
+
+2. Ou clone esse repositório e abra o arquivo index.html no seu navegador de preferência.
+
+3. Clique no botão "Iniciar jogo" e veja a magia acontecer por si só.
 
 ## Limitações
 
