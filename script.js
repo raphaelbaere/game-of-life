@@ -117,7 +117,7 @@ function nextGeneration() {
                 gameBoard.appendChild(boardReformed[i][j]);
               }
         }
-    }x
+    }
 }
 
 
